@@ -33,7 +33,7 @@
 * Normally, Service-Oriented Architecture is implemented with web services, that makes the function building blocks accessible over standard internet protocols.
 * If we imagine any example of web services, then we have SOAP , which stands for Simple Object Access Protocol . If we talk about what is SOAP , so SOAP is messaging protocol specification for exchanging structured information in the implementation of web services in computer networks .
 
->## ** Some Final Thoughts On Service-Oriented Architecture** 
+>## **Some Final Thoughts On Service-Oriented Architecture** 
 
 * As above discussed we can see, how service-oriented architecture can be to understand but once you will know about it, the nuts and the bolt of it then it will benefits the company and you will be thrilled you discoverd it .
 * So, we have provided several excellent rescourses about Serivice-Oriented architecture through out this article. 
