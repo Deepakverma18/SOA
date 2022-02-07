@@ -35,5 +35,5 @@
 
 >## **Some Final Thoughts On Service-Oriented Architecture** 
 
-* As above discussed we can see, how service-oriented architecture can be to understand but once you will know about it, the nuts and the bolt of it then it will benefits the company and you will be thrilled you discovered it .
-* So, we have provided several excellent resources about Service-Oriented architecture through out this article. 
+* As above discussed we can see, how service-oriented architecture can be to difficult to understand but once you will know about it, the nuts and the bolt of it then it will benefit the company and you will be thrilled you discovered it .
+* So, we have provided several excellent resources about Service-Oriented architecture through out this article.
